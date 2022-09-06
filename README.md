@@ -60,8 +60,5 @@
   </ul>
   
   <hr>
-  
-  <p> The whole project is deployed on Heroku Cloud.
-  
- <p> Here is the link where you can access the project live : https://my-Disease-pred-app.herokuapp.com/ <p>
   <p> Thank you!</p>
+  
